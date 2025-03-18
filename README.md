@@ -1,3 +1,23 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Subinika Neupane and I'm a QA, from Nepal.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+✨ Creating, breaking, and squashing bugs since day one!<br>  
+🔍 Passionate about ensuring quality, improving user experience, and making developers rethink their code!<br>  
+📚 Currently sharpening my skills in test automation, API testing, and DevOps tools like Docker.<br>  
+🎯 Goals: Master test strategies, enhance automation skills, and contribute to high-quality software!<br>  
+🎲 Fun fact: I don’t *find* bugs; they reveal themselves to me! 🐞😉<br>  
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subinika-neupane-9bb788221) 
