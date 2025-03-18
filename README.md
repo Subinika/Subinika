@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Subinika Neupane and I'm a QA, from Nepal.</p>
+<h3 align="left">My name is Subinika Neupane and I'm a QA, from Nepal.</h3>
 
 ###
 
